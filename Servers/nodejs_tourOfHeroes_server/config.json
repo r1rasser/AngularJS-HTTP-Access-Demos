@@ -1,0 +1,12 @@
+{
+    "database": {
+        "host": "localhost",
+        "user": "tourOfHeroesUser",
+        "password": "pw",
+        "db": "tourOfHeroes_DB"
+    },
+    "server": {
+        "host": "localhost",
+        "port": 4000
+    }
+}
